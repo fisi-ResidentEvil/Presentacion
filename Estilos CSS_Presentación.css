@@ -1,0 +1,8 @@
+body{background-color: rgb(206, 209, 247);background-image: url(LogoUmbrella_transparente.png);background;}
+.division{align-items: center; display: flex; justify-content: space-between}
+p{font-family: 'Arial', 'Helvetica', 'sans-serif';font-size: 25px;text-align: center}
+li{font-weight: bold;font-family: 'Arial', 'Helvetica', 'sans-serif';font-size: 25px}
+.negrita{font-weight: bolder; text-decoration-line: underline;}
+.tamanoImagen{width: 120px; height: 180px;}
+h1{text-align: center; font-family: 'Arial', 'Helvetica', 'sans-serif'}
+.indice{font-weight: bolder;text-decoration: underline grey double;}

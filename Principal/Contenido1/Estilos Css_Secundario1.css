@@ -1,0 +1,9 @@
+.flotar1{width: 50px; height: 50px;position: fixed;right: 0px;bottom: 0px;}
+.flotar2{width: 50px; height: 50px;position: fixed;top: 0px;right: 0px;}
+.imagen1{width: 560px; height: 300px;}
+img{width: 330px;height: 320px; float:left;margin-right: 20px}
+h2{text-decoration: underline dotted green; font-family:'Verdana', 'Geneva', 'Tahoma', 'sans-serif';}
+p{text-align: justify;font-family: 'Arial', 'Helvetica', 'sans-serif';font-size: 20px;}
+hr{border-width: 10px;width: 100%;border-color: red blue white green;border-style:groove}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;background-color:darkturquoise;color:red;text-decoration: underline double black;}
+body{background-color: rgb(206, 247, 218);background-image: url(LogoUmbrella_transparente.png)}
