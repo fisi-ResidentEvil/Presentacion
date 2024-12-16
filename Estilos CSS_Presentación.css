@@ -1,4 +1,4 @@
-body{background-color: rgb(206, 209, 247);background-image: url(LogoUmbrella_transparente.png);background;}
+body{background-color: rgb(206, 209, 247);background-image: url(LogoUmbrella_transparente.png);}
 .division{align-items: center; display: flex; justify-content: space-between}
 p{font-family: 'Arial', 'Helvetica', 'sans-serif';font-size: 25px;text-align: center}
 li{font-weight: bold;font-family: 'Arial', 'Helvetica', 'sans-serif';font-size: 25px}
